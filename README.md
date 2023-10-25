@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zakariaezezez
+- 👋 Hi, I’m @Zakaria
 - 👀 I’m interested in ... building electronics
 - 🌱 I’m currently learning ... how to build a paper boat
 - 💞️ I’m looking to collaborate on ... engineers
